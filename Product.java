@@ -33,7 +33,7 @@ public class Product {
 
 	public String getProductCategory() {
 		return productCategory;
-	} // Test
+	} // Test comment
 
 	public String getProductDescription() {
 		return productDescription;
