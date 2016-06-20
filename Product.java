@@ -33,7 +33,7 @@ public class Product {
 
 	public String getProductCategory() {
 		return productCategory;
-	} // Test comment
+	}
 
 	public String getProductDescription() {
 		return productDescription;
@@ -51,3 +51,6 @@ public class Product {
 		this.productQuantity = productQuantity;
 	}
 }
+
+// teeeeesssstt
+
